@@ -1,0 +1,36 @@
+main {
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 10%;
+
+  vertical-align: middle;
+  text-align: center;
+  border: thick double #6776c2;
+
+  border-radius: 5px;
+}
+
+.time {
+  font-size: 5vw;
+}
+
+.clock {
+  height: 133px;
+  color: #6776c2;
+}
+
+.lotto {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.makeNum {
+  font-size: 2vw;
+  background-color: skyblue;
+  color: white;
+  border-radius: 5px;
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  line-height: 100px;
+}
